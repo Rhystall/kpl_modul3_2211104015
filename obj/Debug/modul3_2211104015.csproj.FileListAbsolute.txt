@@ -1,0 +1,10 @@
+E:\Data ITTP\Perkuliahan\Semester 6\KPL\Praktikum\Praktikum3\Jurnal\modul3_2211104015\modul3_2211104015\obj\Debug\modul3_2211104015.csproj.AssemblyReference.cache
+E:\Data ITTP\Perkuliahan\Semester 6\KPL\Praktikum\Praktikum3\Jurnal\modul3_2211104015\modul3_2211104015\obj\Debug\modul3_2211104015.Form1.resources
+E:\Data ITTP\Perkuliahan\Semester 6\KPL\Praktikum\Praktikum3\Jurnal\modul3_2211104015\modul3_2211104015\obj\Debug\modul3_2211104015.Properties.Resources.resources
+E:\Data ITTP\Perkuliahan\Semester 6\KPL\Praktikum\Praktikum3\Jurnal\modul3_2211104015\modul3_2211104015\obj\Debug\modul3_2211104015.csproj.GenerateResource.cache
+E:\Data ITTP\Perkuliahan\Semester 6\KPL\Praktikum\Praktikum3\Jurnal\modul3_2211104015\modul3_2211104015\obj\Debug\modul3_2211104015.csproj.CoreCompileInputs.cache
+E:\Data ITTP\Perkuliahan\Semester 6\KPL\Praktikum\Praktikum3\Jurnal\modul3_2211104015\modul3_2211104015\bin\Debug\modul3_2211104015.exe.config
+E:\Data ITTP\Perkuliahan\Semester 6\KPL\Praktikum\Praktikum3\Jurnal\modul3_2211104015\modul3_2211104015\bin\Debug\modul3_2211104015.exe
+E:\Data ITTP\Perkuliahan\Semester 6\KPL\Praktikum\Praktikum3\Jurnal\modul3_2211104015\modul3_2211104015\bin\Debug\modul3_2211104015.pdb
+E:\Data ITTP\Perkuliahan\Semester 6\KPL\Praktikum\Praktikum3\Jurnal\modul3_2211104015\modul3_2211104015\obj\Debug\modul3_2211104015.exe
+E:\Data ITTP\Perkuliahan\Semester 6\KPL\Praktikum\Praktikum3\Jurnal\modul3_2211104015\modul3_2211104015\obj\Debug\modul3_2211104015.pdb
